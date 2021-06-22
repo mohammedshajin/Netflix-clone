@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Netflix clone built with React
+Netflix-clone built with React
 
 ![](images/netflix1.png)
 
